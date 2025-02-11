@@ -1,4 +1,4 @@
-package orientacion_objeto_jose_andres;
+package orientacion_objeto_2;
 
 public class CuentaBanco1 {
 

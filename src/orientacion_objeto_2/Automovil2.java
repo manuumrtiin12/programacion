@@ -1,4 +1,4 @@
-package orientacion_objeto_jose_andres;
+package orientacion_objeto_2;
 
 public class Automovil2 extends Vehiculo2 {
     
@@ -16,4 +16,11 @@ public class Automovil2 extends Vehiculo2 {
     public void setCalificacionEcologica(String calificacionEcologica) {
         this.calificacionEcologica = calificacionEcologica;
     }
+
+   public void imprimeResumen() {
+   }
+		public String toString() {
+			return "Automovil2 [calificacionEcologica=" + calificacionEcologica + ", dueño=" + dueño + ", numPuertas="
+					+ numPuertas + ", numRuedas=" + numRuedas + "]";
+		}
 }

@@ -1,10 +1,10 @@
-package orientacion_objeto_jose_andres;
+package orientacion_objeto_2;
 
 public class Vehiculo2 {
     
-    private String dueño;
-    private int numPuertas;
-    private int numRuedas;
+	protected String dueño;
+    protected int numPuertas;
+    protected int numRuedas;
     
     public Vehiculo2(String dueño, int numPuertas, int numRuedas) {
         this.dueño = dueño;
