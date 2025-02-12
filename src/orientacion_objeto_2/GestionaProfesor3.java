@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class GestionaProfesor3 {
 
 	
-
+/*
 ProfesorInterino3 interino1 = new ProfesorInterino3 ("Pepe", "Inglés", LocalDate.now().plusMonths (6)); 
 Profesor3 interino2 = new ProfesorInterino3 ("Pepa", "Historia", LocalDate.now().plusMonths (4));
 
@@ -19,4 +19,6 @@ System.out.println(titular1.getFechaAdjudicacionPlaza());
 Profesor titular2= new Profesor Titular ("Antonia", "Lengua", LocalDate.now(). minus Years(1)); 
 ProfesorTItular p4 = (ProfesorTitular) titular2; System.out.println(p4.getFechaAdjudicacionPlaza());
 
+
+*/
 }
