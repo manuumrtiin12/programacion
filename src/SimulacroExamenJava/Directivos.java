@@ -41,7 +41,7 @@ public class Directivos extends Empleado {
 	}
 
 	int calcularSalario(int SalarioBase){
-		System.out.println("El salario de", " ", Nombre, " ", "es igual a", (SalarioBase * ExtraBonificacion)/100);
+		/*System.out.println("El salario de", " ", Nombre, " ", "es igual a", (SalarioBase * ExtraBonificacion)/100);*/
 		return SalarioBase;
 	}
 	
