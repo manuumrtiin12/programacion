@@ -1,9 +1,7 @@
 package Simulaco2Java;
 
-public class Estado {
 
-	public enum estado {
+	public enum Estado {
 		REGISTRADA, ANALIZADA, EN_RESOLUCIÓN, CERRADA;
 
-	}
 }

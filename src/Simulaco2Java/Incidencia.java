@@ -60,7 +60,7 @@ public class Incidencia {
 	}
 
 	protected LocalDate getFechaCierre(){
-		if (estado.equals(Estado.estado.CERRADA))
+		if (estado.equals(Estado.CERRADA))
 			estado.equals(null);
 		return fechaCierre;
 	}
@@ -120,11 +120,11 @@ public class Incidencia {
 	}
 
 	
-	public boolean esUrgente() {
-		if (getCriticidad().equals(Criticidad.criticidad.CRITICA));
+	/*public boolean esUrgente() {
+		if (getCriticidad().equals(Criticidad.criticidad.CRITICA));*/
 			
 	}
 	
-	}
+	
 
 

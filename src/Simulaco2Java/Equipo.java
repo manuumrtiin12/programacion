@@ -58,6 +58,11 @@ public class Equipo {
 		return Objects.equals(mac, other.mac);
 	}
 
+	@Override
+	public String toString() {
+		return "Equipo [nombre=" + nombre + ": mac=" + mac + ": numeroIncidencias=" + numeroIncidencias + "]";
+	}
+
 	
 
 }
