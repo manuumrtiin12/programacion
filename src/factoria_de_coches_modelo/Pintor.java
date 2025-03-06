@@ -1,4 +1,4 @@
-package factoria_de_coches_modelo;
+/*package factoria_de_coches_modelo;
 
 public class Pintor extends RobotBase {
 
@@ -35,5 +35,5 @@ public class Pintor extends RobotBase {
 	
 	}
 	
-	
+	*/
 

@@ -1,4 +1,4 @@
-package factoria_de_coches_modelo;
+/*package factoria_de_coches_modelo;
 
 public class Ensamblador extends RobotBase {
 
@@ -34,3 +34,4 @@ public class Ensamblador extends RobotBase {
 	
 	
 }
+*/
