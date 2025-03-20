@@ -8,4 +8,6 @@ public class Alquilable extends Vgeneral {
 		return 0;
 	}
 
+	
+
 }
