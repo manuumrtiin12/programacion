@@ -1,5 +1,6 @@
 package Simulacro2OrientacionObjetoModelo;
 
-public class ICompeticion {
+public class ICompeticion implements Deportista {
 
+	
 }
