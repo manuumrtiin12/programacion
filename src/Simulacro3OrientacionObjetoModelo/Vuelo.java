@@ -94,8 +94,8 @@ public class Vuelo {
 				+ ", fechaVuelo=" + fechaVuelo + ", duracion=" + duracion + ", estado=" + estado + "]";
 	}
 
-	int VuelosAsignadosMax() {
-		if (this.vuelosAsignados);
+	/*int VuelosAsignadosMax() {
+		if (this.vuelosAsignados);*/
 		
 	}
-}
+
