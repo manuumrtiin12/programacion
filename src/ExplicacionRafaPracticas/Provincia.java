@@ -7,7 +7,6 @@ public class Provincia {
 	private String nombre;
 	private int poblacion;
 	
-	
 	public Provincia(String nombre, int poblacion) {
 		super();
 		this.nombre = nombre;
